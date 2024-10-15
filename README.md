@@ -37,3 +37,7 @@ git clone https://github.com/tsarchghs/ParticleClassifier.git
 cd ParticleClassifier
 pip install -r requirements.txt
 ```
+Potential Applications
+Biological Studies: Analyzing cell distributions in biological samples.
+Material Science: Understanding the distribution of different particle types in composites or nanomaterials.
+Environmental Monitoring: Assessing pollutant distribution in air or water samples.
